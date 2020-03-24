@@ -3,6 +3,7 @@ Participation algorithms for CLEF CheckThat! 2019 of team UAIC
 
 Our paper: https://dblp.org/rec/conf/clef/CocaCI19
 
+```
 @inproceedings{DBLP:conf/clef/CocaCI19,
   author    = {Lucia Georgiana Coca and
                Ciprian{-}Gabriel Cusmuliuc and
@@ -23,9 +24,11 @@ Our paper: https://dblp.org/rec/conf/clef/CocaCI19
   biburl    = {https://dblp.org/rec/conf/clef/CocaCI19.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
+```
 
 Contest website: https://github.com/apepa/clef2019-factchecking-task1
 
+```
 @InProceedings{clef-checkthat-T1:2019,
     author = "Atanasova, Pepa and
     Nakov, Preslav and
@@ -35,3 +38,4 @@ Contest website: https://github.com/apepa/clef2019-factchecking-task1
     title  = "Overview of the CLEF-2019 CheckThat! Lab on Automatic Identification and Verification of Claims. Task 1: Check-Worthiness",
     crossref = "clef-ceur:19"
 }
+```
