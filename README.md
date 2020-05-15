@@ -1,4 +1,4 @@
-# checkThat-UAICS
+# checkThat-2019-UAICS
 Participation algorithms for CLEF CheckThat! 2019 of team UAIC
 
 Our paper: https://dblp.org/rec/conf/clef/CocaCI19
